@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ochui/ochui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some things you need to know about ✨ _Me_ ✨:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Health and Finance Technologies
+- 🌱 I’m currently how to grow plant without soil
+- 👯 I’m looking to collaborate on Python, PHP and Javascript Open Source Projects
+- 🤔 I’m looking for enlightenment
+- 💬 Ask me about Python, CLI, Web Scraping, Django and so many others.
+- 📫 How to reach me: ochui.princeiwll at gmail dot com, Skype - ochui princewill
+- 😄 Pronouns: Me
+- ⚡ Fun fact: I love **FOOD.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 In the beginning God created man, and the costs followed afterwards.
 ![](https://hit.yhype.me/github/profile?user_id=21917688)
