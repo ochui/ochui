@@ -5,12 +5,17 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
+ 
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/svelte/svelte-original.svg" />
+ 
+ 
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />
 </div>
