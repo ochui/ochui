@@ -41,7 +41,7 @@ Telecom engineering, SIP routing, CPaaS architecture, bots, real-time systems, o
 
 ## 📫 Reach me
 
-- 📧 Email: ochuiprincewill411@gmail.com
+- 📧 LinkedIn: [Ochui, Princewill Patrick](https://www.linkedin.com/in/ochui-princewill-patrick/)
 
 ---
 
