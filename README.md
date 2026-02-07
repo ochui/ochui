@@ -1,12 +1,53 @@
-Here are some things you need to know about ✨ _Me_ ✨:
+# 👋 Hi, I'm Princewill
 
-- 🔭 I’m currently working on Health and Finance Technologies
-- 🌱 I love growing plants.
-- 🤔 I’m looking for enlightenment
-- 💬 Ask me about Python, CLI, Web Scraping, Django, Arduino, EPS, ARM and Hydroponics.
-- 📫 How to reach me: ochui.princeiwll at gmail dot com, Skype - ochui princewill
+**Telecom engineer • Systems builder • Founder • Curious human**
 
+I design and build **programmable communication infrastructure** — voice, messaging, SIP, and real-time systems.
 
+Currently building **Flowdacity** → composable telecom infrastructure for Africa.
 
-In the beginning God created man, and the costs followed afterwards.
+---
+
+## ⚡ What I’m up to
+
+- 🔭 Building telecom + CPaaS systems (FreeSWITCH, Kamailio, SIP, WebRTC)
+- 🧠 Architecting distributed systems & microservices
+- 🛠 Shipping tools, bots, automation, and weird experiments
+- 🌱 Growing plants & hydroponics (because engineers should grow things too)
+
+---
+
+## 🧰 Things I enjoy working with
+
+**Languages & Frameworks**
+- Python • Django • FastAPI • Node/TypeScript • Laravel
+
+**Telecom & Real-Time**
+- FreeSWITCH • SIP • VoIP • ESL • RTP • WebRTC
+
+**Infra & Tools**
+- Docker • Linux • CLI • Automation
+
+**Hardware & Tinkering**
+- Arduino • Embedded • ARM • Hydroponics • Web scraping
+
+---
+
+## 💬 Ask me about
+
+Telecom engineering, SIP routing, CPaaS architecture, bots, real-time systems, or how to grow lettuce with code 🌿
+
+---
+
+## 📫 Reach me
+
+- 📧 Email: ochuiprincewill411@gmail.com
+
+---
+
+## ✨ Fun philosophy
+
+> In the beginning God created man…  
+> and the costs followed afterwards.
+
 ![](https://hit.yhype.me/github/profile?user_id=21917688)
